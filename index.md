@@ -1,4 +1,6 @@
 ---
+layout: page
+title: LinuxInstall Home
 ---
 
-Hello World!
+Learn about Linux and enjoy it.
